@@ -1,0 +1,56 @@
+========== Huffman Tree Structure (Indented) ==========
+Note: < > means internal node weight sum, [ ] means leaf node character
+Root: <weight:1000>
+    |----L: <weight:408>
+    |    |----L: <weight:191>
+    |    |    |----L: <weight:92>
+    |    |    |    |----L: <weight:45>
+    |    |    |    |    |----L: [C] (weight:22)
+    |    |    |    |    |----R: [U] (weight:23)
+    |    |    |    |----R: [H] (weight:47)
+    |    |    |----R: <weight:99>
+    |    |    |    |----L: [R] (weight:48)
+    |    |    |    |----R: [S] (weight:51)
+    |    |----R: <weight:217>
+    |    |    |----L: [E] (weight:103)
+    |    |    |----R: <weight:114>
+    |    |    |    |----L: [I] (weight:57)
+    |    |    |    |----R: [N] (weight:57)
+    |----R: <weight:592>
+    |    |----L: <weight:250>
+    |    |    |----L: <weight:122>
+    |    |    |    |----L: <weight:59>
+    |    |    |    |    |----L: <weight:28>
+    |    |    |    |    |    |----L: [B] (weight:13)
+    |    |    |    |    |    |----R: [G] (weight:15)
+    |    |    |    |    |----R: <weight:31>
+    |    |    |    |    |    |----L: [P] (weight:15)
+    |    |    |    |    |    |----R: [Y] (weight:16)
+    |    |    |    |----R: [O] (weight:63)
+    |    |    |----R: <weight:128>
+    |    |    |    |----L: <weight:64>
+    |    |    |    |    |----L: [D] (weight:32)
+    |    |    |    |    |----R: [L] (weight:32)
+    |    |    |    |----R: [A] (weight:64)
+    |    |----R: <weight:342>
+    |    |    |----L: <weight:156>
+    |    |    |    |----L: <weight:76>
+    |    |    |    |    |----L: <weight:35>
+    |    |    |    |    |    |----L: <weight:17>
+    |    |    |    |    |    |    |----L: [V] (weight:8)
+    |    |    |    |    |    |    |----R: <weight:9>
+    |    |    |    |    |    |    |    |----L: <weight:4>
+    |    |    |    |    |    |    |    |    |----L: <weight:2>
+    |    |    |    |    |    |    |    |    |    |----L: [X] (weight:1)
+    |    |    |    |    |    |    |    |    |    |----R: [Z] (weight:1)
+    |    |    |    |    |    |    |    |    |----R: <weight:2>
+    |    |    |    |    |    |    |    |    |    |----L: [J] (weight:1)
+    |    |    |    |    |    |    |    |    |    |----R: [Q] (weight:1)
+    |    |    |    |    |    |    |    |----R: [K] (weight:5)
+    |    |    |    |    |    |----R: [W] (weight:18)
+    |    |    |    |    |----R: <weight:41>
+    |    |    |    |    |    |----L: [M] (weight:20)
+    |    |    |    |    |    |----R: [F] (weight:21)
+    |    |    |    |----R: [T] (weight:80)
+    |    |    |----R: [ ] (weight:186)
+===============================================
